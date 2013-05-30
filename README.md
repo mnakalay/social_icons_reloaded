@@ -2,6 +2,7 @@ social-icons-reloaded
 =====================
 
 __Free Social Icons Reloaded add-on for Concrete5__
+__One of the most popular out there__
 
 This Block allows you to enter your social URLs and have them displayed in a nice format with icons included. I'm talking 65 social networks to choose from with their icons (16 and 32 px format)
 
